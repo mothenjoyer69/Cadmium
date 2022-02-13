@@ -1,3 +1,6 @@
+This is my fork of Cadmium, focused solely on krane. All credit to the original developers of Cadmium.
+
+
 <p align="center"><img src="/pics/logo/cd_smol.png" alt="Logo" data-canonical-src="/pics/cd_smol.png"/></p>
 
 Thanks @LoganMD for the logo
